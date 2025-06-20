@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👨🏻‍💻 About Me:
+Software Engineer @Outlier<br><br>Enthusiastic Software Engineer. <br><br>Expert in:<br><br>- Swift<br>- SwiftUI<br>- SwiftUI Frameworks.<br>- iOS Development<br>- DSA and DP, <br>- Training AI models, and improving coding standards<br>- Conducting manual and QA tests.<br><br>Key achievements include:<br><br>- Projecting and Writing Scalable and Efficient iOS Applications.<br><br>- Reviewing and assessing 100 code submissions from both AI and other developers.<br><br>- Building frameworks for iOS applications, working mainly on SwiftUI.<br><br>- Optimizing applications for speed and scalability by choosing the correct data structures and algorithmic solutions.<br><br>I define myself as an innovator and a problem solver. However, above all, I'm an ever-willing-to-grow-and-learn person.
 
-<!--
-**saverio-negro/saverio-negro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saverionegro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saverio-negro-5192b2200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saverionegro@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saverio-negro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saverio-negro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saverio-negro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
