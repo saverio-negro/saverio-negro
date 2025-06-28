@@ -11,7 +11,7 @@ The following are SwiftUI custom frameworks I have built from the simplest to th
 
 ### 2. Space Patrol
 
-"Space Patrol" is a project born with the idea of showcasing a simple mathematical framework I have built for visionOS, which I named "FieldKit". "FieldKit" is meant to offer a visual representation for different types of vector fields — mainly force vector fields. The framework was built according to the ECS (Entity-Component-System) design pattern and is still in its early stages. "Space Patrol" walks the user through a guided and funny experience in space, and serves as a UI for "FieldKit".
+"Space Patrol" is a project born with the idea of showcasing a simple mathematical framework I have built for visionOS: "FieldKit". "FieldKit" is meant to offer a visual representation for different types of vector fields — mainly force vector fields. The framework was built according to the ECS (Entity-Component-System) design pattern and is still in its early stages. "Space Patrol" walks the user through a guided and funny experience in space, and serves as a UI/UX to expose "FieldKit".
 
 <a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">Space Patrol</a>
 
