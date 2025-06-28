@@ -1,11 +1,19 @@
 # 👨🏻‍💻 About Me:
 Software Engineer @Outlier<br><br>Enthusiastic Software Engineer. <br><br>Expert in:<br><br>- Swift<br>- SwiftUI<br>- SwiftUI Frameworks.<br>- iOS Development<br>- DSA and DP, <br>- Training AI models, and improving coding standards<br>- Conducting manual and QA tests.<br><br>Key achievements include:<br><br>- Projecting and Writing Scalable and Efficient iOS Applications.<br><br>- Reviewing and assessing 100 code submissions from both AI and other developers.<br><br>- Building frameworks for iOS applications, working mainly on SwiftUI.<br><br>- Optimizing applications for speed and scalability by choosing the correct data structures and algorithmic solutions.<br><br>I define myself as an innovator and a problem solver. However, above all, I'm an ever-willing-to-grow-and-learn person.
 
-## SwiftUI Mini-Framework Building Portfolio
+## Notable Projects:
+
+### 1. SwiftUI Mini-Framework Building Portfolio (Hot)
 
 The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It's just meant to showcase my ability to build meaningful components using similar patterns and design systems used by framework engineers from Apple.
 
 <a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">SwiftUI UIFoundationKit Mini Frameworks</a>
+
+### 2. Space Patrol
+
+"Space Patrol" is a project born with the idea of showcasing a simple mathematical framework I have built for visionOS, which I named "FieldKit". "FieldKit" is meant to offer a visual representation for different types of vector fields — mainly force vector fields. The framework was built according to the ECS (Entity-Component-System) design pattern and is still in its early stages. "Space Patrol" walks the user through a guided and funny experience in space, and serves as a UI for "FieldKit".
+
+<a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">Space Patrol</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saverionegro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saverio-negro-5192b2200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saverionegro@gmail.com) 
