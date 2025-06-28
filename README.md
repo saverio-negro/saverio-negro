@@ -11,9 +11,15 @@ The following are SwiftUI custom frameworks I have built from the simplest to th
 
 ### 2. Space Patrol
 
-"Space Patrol" is a project born with the idea of showcasing a simple mathematical framework I have built for visionOS: "FieldKit". "FieldKit" is meant to offer a visual representation for different types of vector fields — mainly force vector fields. The framework was built according to the ECS (Entity-Component-System) design pattern and is still in its early stages. "Space Patrol" walks the user through a guided and funny experience in space, and serves as a UI/UX to expose "FieldKit".
+**Space Patrol** is a project born with the idea of showcasing a simple mathematical framework I have built for visionOS: "FieldKit". "FieldKit" is meant to offer a visual representation for different types of vector fields — mainly force vector fields. The framework was built according to the ECS (Entity-Component-System) design pattern and is still in its early stages. "Space Patrol" walks the user through a guided and funny experience in space, and serves as a UI/UX to expose "FieldKit".
 
 <a href="https://github.com/saverio-negro/SpacePatrol">Space Patrol</a>
+
+### 3. Quotly (WWDC Swift Student Challenge Winner 2025)
+
+**Quotly** is an app I truly hold dear to. It's a tool I heartedly developed to serve inspiration and motivation in people's life. "Quotly" tries to enhance self-awareness in a world that is continuously fast-pacing, and spark motivation and inspiration by allowing the user to write little reflections (memos) on a daily motivational quote; specifically, one reflection for each daytime. The quote is meant to accompany the user througout their day.
+
+<a href="https://github.com/saverio-negro/Quotly">Quotly</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saverionegro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saverio-negro-5192b2200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saverionegro@gmail.com) 
