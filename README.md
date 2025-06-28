@@ -3,7 +3,7 @@ Software Engineer @Outlier<br><br>Enthusiastic Software Engineer. <br><br>Expert
 
 ## SwiftUI Mini-Framework Building Portfolio
 
-The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It's just meant to showcase my ability to build meaningful components using similar patterns and design systems from Apple.
+The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It's just meant to showcase my ability to build meaningful components using similar patterns and design systems used by framework engineers from Apple.
 
 <a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">SwiftUI UIFoundationKit Mini Frameworks</a>
 
