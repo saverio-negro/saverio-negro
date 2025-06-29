@@ -24,7 +24,7 @@ The following are SwiftUI custom frameworks I have built from the simplest to th
 
 ## 📄 Resume:
 
-Check my resume: <a href="./saverio_negro_resume.pdf">Saverio Negro Resume</a>
+Download my resume: <a href="./saverio_negro_resume.pdf">Saverio Negro Resume</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saverionegro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saverio-negro-5192b2200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saverionegro@gmail.com) 
