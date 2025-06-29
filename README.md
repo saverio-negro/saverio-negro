@@ -4,7 +4,7 @@ Fueled by coffee, curiosity, and love — I elegantly design scalable systems an
 
 ## Notable Projects:
 
-### 1. SwiftUI Mini-Framework Building Portfolio
+### 1. SwiftUI Mini-Framework Series
 
 The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It's just meant to showcase my ability to build meaningful components using similar patterns and design systems used by framework engineers from Apple.
 
