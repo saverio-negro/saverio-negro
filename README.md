@@ -6,7 +6,7 @@ Fueled by coffee, curiosity, and love — I elegantly design scalable systems an
 
 ### 1. SwiftUI Mini-Framework Series
 
-The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It's just meant to showcase my ability to build meaningful components using similar patterns and design systems used by framework engineers from Apple.
+The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It is meant to showcase my ability to build meaningful components using similar patterns and design systems used by framework engineers from Apple.
 
 <a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">SwiftUI UIFoundationKit Mini Frameworks</a>
 
@@ -18,7 +18,7 @@ The following are SwiftUI custom frameworks I have built from the simplest to th
 
 ### 3. Quotly (Apple's WWDC Swift Student Challenge Winner 2025)
 
-**Quotly** is an app I truly hold dear to. It's a tool I heartedly developed to serve inspiration and motivation in people's life. "Quotly" tries to enhance self-awareness in a world that is continuously fast-pacing, and spark motivation and inspiration by allowing the user to write little reflections (memos) on a daily motivational quote; specifically, one reflection for each daytime. The quote is meant to accompany the user througout their day.
+**Quotly** is an app I truly hold dear to. It's a tool I heartedly developed to serve inspiration and motivation in people's life. "Quotly" tries to enhance self-awareness in a world that is continuously fast-pacing, and spark motivation and inspiration by allowing the user to write little reflections (memos) on a daily motivational quote; specifically, one reflection for each daytime. The quote is meant to accompany the user throughout their day.
 
 <a href="https://github.com/saverio-negro/Quotly">Quotly</a>
 
