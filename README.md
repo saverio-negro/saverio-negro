@@ -4,21 +4,27 @@ Fueled by coffee, curiosity, and love — I elegantly design scalable systems an
 
 ## Notable Projects:
 
-### 1. SwiftUI Mini-Framework Series (In Progress)
+### 1. SwiftUI Frameworks Series (In Progress)
 
-The following are SwiftUI custom frameworks I have built from the simplest to the most complex. It is meant to showcase my ability to build meaningful components using similar patterns and design systems used by framework engineers from Apple.
+This series explores the creation of custom SwiftUI frameworks. Designed as a showcase of my technical approach
+and architectural thinking, each framework demonstrates my ability to craft reusable components using patterns
+and system design inspired by Apple’s framework engineers.
 
 <a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">SwiftUI UIFoundationKit Mini Frameworks</a>
 
 ### 2. Space Patrol
 
-**Space Patrol** is a project born with the idea of showcasing a simple mathematical framework built for visionOS: **FieldKit**. FieldKit is meant to offer a visual representation for different types of vector fields — mainly force vector fields. The framework was built according to the ECS (Entity-Component-System) design pattern and is still in its early stages. Space Patrol walks the user through a guided and funny experience in space, and serves as a UI/UX to expose FieldKit.
+**Space Patrol** is a visionOS app designed to demonstrate the potential of FieldKit, a lightweight yet expressive
+mathematical framework. FieldKit provides visual representations of various vector fields. Built using the Entity-
+Component-System (ECS) architectural pattern, the framework emphasizes modularity and scalability.
 
 <a href="https://github.com/saverio-negro/SpacePatrol">Space Patrol</a>
 
 ### 3. Quotly (Apple's WWDC Swift Student Challenge Winner 2025)
 
-**Quotly** is an app I truly hold dear to. It's a tool I heartedly developed to serve inspiration and motivation in people's life. "Quotly" tries to enhance self-awareness in a world that is continuously fast-pacing, and spark motivation and inspiration by allowing the user to write little reflections (memos) on a daily motivational quote; specifically, one reflection for each daytime. The quote is meant to accompany the user throughout their day.
+**Quotly** is a project that holds a special place in my heart — a passion-driven app designed to cultivate inspiration
+and self-awareness in everyday life. Quotly provides users with daily motivational quotes paired with the space
+to jot down personal thoughts and reflections.
 
 <a href="https://github.com/saverio-negro/Quotly">Quotly</a>
 
