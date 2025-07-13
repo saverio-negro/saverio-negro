@@ -10,7 +10,7 @@ This series explores the creation of custom SwiftUI frameworks. Designed as a sh
 and architectural thinking, each framework demonstrates my ability to craft reusable components using patterns
 and system design inspired by Apple’s framework engineers.
 
-<a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">SwiftUI UIFoundationKit Mini Frameworks</a>
+<a href="https://github.com/stars/saverio-negro/lists/swiftui-uifoundationkit">SwiftUI UIFoundationKit Frameworks</a>
 
 ### 2. Space Patrol
 
